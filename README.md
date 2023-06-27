@@ -1,2 +1,2 @@
-# Hospital-Management-Django-Project
-Btech 2nd year project based on MYSQL and Django
+# AI project - predicting and interpreting oxide glass properties
+Btech 2nd year AI project : PREDICTING AND INTERPRETING OXIDE GLASS PROPERTIES
